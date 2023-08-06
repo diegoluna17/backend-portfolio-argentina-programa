@@ -4,3 +4,4 @@ com\portfolio\DL\DlApplication.class
 com\portfolio\DL\Controller\cPersona.class
 com\portfolio\DL\Entity\Persona.class
 com\portfolio\DL\Repository\iPersonaRepository.class
+com\portfolio\DL\WebConfig.class
